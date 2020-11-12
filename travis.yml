@@ -1,0 +1,23 @@
+sudo: required
+lenguage: go
+go:
+  - 1.7.x
+env:
+- TRAVIS_NODE_VERSION="8"
+install:
+# - brew update
+#  - pwd
+  - rm -rf ~/.nvm && git clone https://github.com/creationix/nvm.git ~/.nvm && (cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`) && source ~/.nvm/nvm.sh && nvm install $TRAVIS_NODE_VERSION
+ # - npm install
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.55.4/hugo_0.55.4_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
+#  - npm run install_hugo
+  - npm install -g firebase-tools
+  
+script:
+  #- (echo "Script path:") && pwd
+  - echo "Generating WEB with HUGO"
+#  - npm run lint
+  - hugo -s exampleSite/ --destination=../public --baseURL=https://sunnysideup.mx/
+after_success:
+  - firebase deploy --token $FIRE_TOKEN
