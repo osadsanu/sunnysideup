@@ -1,23 +1,18 @@
 ---
-title: "About Us"
+title: "Who are we"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "We´re a Mexican run Business with the goal of creating jobs and helping our clients feel comfortable at home my offering cost-effective solution to high energy tariffs through solar energy"
 ---
+## Our Story
 
-## ABOUT OUR JOURNY
+What started out as an interest in Renewable Energy has over time – through a lot of learning and challenges! - developed into Sunny Side Up (SSU) and we now count on experience in the solar energy market in Mexico since 2016 with our Engineers having carried out both residential and commercial projects throughout Jalisco.
+ With Mexico´s abundant natural resources, ever advancing technologies in the solar industry as well as high tariffs these factors have opened the door for SSU to keep growing and provide alternative solutions to the high electricity bills whilst protecting the environment.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+A simultaneous focus for SSU is to create employment and we are fortunate to count on a team of local Engineers who have graduated from the Renewable Energy Degree in CUTonala, Guadalajara and have obtained the EC0586.01 certification for the installation of solar panel systems in residences, businesses and industry.
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+SSU continues to grow and we are looking forward to the coming challenges in the future as we continue to bring solutions to those seeking an environmentally friendly way to generate their own electricity.

@@ -1,10 +1,10 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/banner-1.png"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "El futuro de la energía esta a la vista"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
@@ -15,7 +15,7 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Piensa global, consume local."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
@@ -121,20 +121,20 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
+    - name : "Homes"
       count : "60"
 
     # funfact item loop
-    - name : "COURSES"
+    - name : "Busines"
       count : "50"
 
     # funfact item loop
-    - name : "STUDENTS"
+    - name : "KW Saved"
       count : "1000"
 
     # funfact item loop
     - name : "SATISFIED CLIENT"
-      count : "1400"
+      count : "140"
 
 # funfact is for about page
 
