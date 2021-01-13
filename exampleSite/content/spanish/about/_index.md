@@ -1,15 +1,15 @@
 ---
-title: "À propos de nous"
+title: "Quienes Somos?"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Somos una Empresa Mexicana con la misión de generar trabajo y ayudar a nuestros clientes a obtener más confort en sus hogares ofreciéndoles una solución económica y sustentable – La Energía Renovable del Sol!"
 ---
 
-## À propos de notre parcours
+## Nuestra historía
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,

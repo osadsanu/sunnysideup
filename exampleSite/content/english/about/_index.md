@@ -11,7 +11,7 @@ description : "We´re a Mexican run Business with the goal of creating jobs and 
 ## Our Story
 
 What started out as an interest in Renewable Energy has over time – through a lot of learning and challenges! - developed into Sunny Side Up (SSU) and we now count on experience in the solar energy market in Mexico since 2016 with our Engineers having carried out both residential and commercial projects throughout Jalisco.
- With Mexico´s abundant natural resources, ever advancing technologies in the solar industry as well as high tariffs these factors have opened the door for SSU to keep growing and provide alternative solutions to the high electricity bills whilst protecting the environment.
+With Mexico´s abundant natural resources, ever advancing technologies in the solar industry as well as high tariffs these factors have opened the door for SSU to keep growing and provide alternative solutions to the high electricity bills whilst protecting the environment.
 
 A simultaneous focus for SSU is to create employment and we are fortunate to count on a team of local Engineers who have graduated from the Renewable Energy Degree in CUTonala, Guadalajara and have obtained the EC0586.01 certification for the installation of solar panel systems in residences, businesses and industry.
 
