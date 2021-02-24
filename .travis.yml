@@ -3,7 +3,7 @@ lenguage: go
 go:
   - 1.7.x
 env:
-- TRAVIS_NODE_VERSION="8"
+- TRAVIS_NODE_VERSION="10"
 install:
 # - brew update
 #  - pwd
