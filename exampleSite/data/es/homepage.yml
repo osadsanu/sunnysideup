@@ -4,37 +4,27 @@ slider:
   bg_image : "images/banner/banner-1.png"
   slider_item:
     # slider item loop
-    - title : "Votre brillant avenir est notre mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "El futuro de la energía esta a la vista"
+      content : "Somos una Empresa Mexicana con la misión de ayudar a nuestros clientes a obtener una solución económica y sustentable en la generación de la energía sin preocuparse por las tarifas de la CFE "
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Postuler maintenant"
+        label : "Apply now"
         link : "contact"
 
     # slider item loop
-    - title : "Votre brillant avenir est notre mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Piensa global, consume local."
+      content : "Total de 74.68kW instalados hasta la fecha en Jalisco y Nayarit y contando! (Guadalajara, Zapopan, Puerto Vallarta y Nuevo Vallarta)"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Postuler"
+        label : "Apply now"
         link : "contact"
 
-    # slider item loop
-    - title : "Votre brillant avenir est notre mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Postuler"
-        link : "contact"
 
 
 ############################### Banner feature ###############################
@@ -43,35 +33,25 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Bourses académiques"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Coverage"
+      icon : "ti-bolt" #"ti-light-bulb" # icon pack : https://themify.me/themify-icons
+      content : "Total de 74.68kW instalados hasta la fecha en Jalisco y Nayarit y contando! (Guadalajara, Zapopan, Puerto Vallarta y Nuevo Vallarta)."
 
     # feature item loop
-    - name : "Notre bureau"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Applications"
+      icon : "ti-star" # icon pack : https://themify.me/themify-icons
+      content : "Residenciales y Negocios."
 
     # feature item loop
-    - name : "Nos accomplissements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Admission"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-
+    - name : "Cost"
+      icon : "ti-money" # icon pack : https://themify.me/themify-icons
+      content : "Ahorros promedio por cliente arriba de $22,000MXN por año"
 ############################## about ##################################
 about:
   enable : true
-  title : "À propos d’Educenter"
+  title : "Acerca de Sunny Side Up"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Somos una Empresa Mexicana con la misión de ayudar a nuestros clientes a obtener una solución económica y sustentable en la generación de la energía sin preocuparse por las tarifas de la CFE "
   button:
     enable : true
     label : "En savoir plus"
@@ -80,7 +60,7 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Notre cours"
   # course item comes from "content/**/course" folder.
 

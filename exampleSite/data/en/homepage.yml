@@ -4,30 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.png"
   slider_item:
     # slider item loop
-    - title : "El futuro de la energía esta a la vista"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact"
-
-    # slider item loop
-    - title : "Piensa global, consume local."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact"
-
-    # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "We are a Mexican run business with the goal of helping our clients find a long term sustainable solution to generate their own energy. Thereby, removing the concern around rising electricity bills"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -35,6 +13,18 @@ slider:
         enable : true
         label : "Apply now"
         link : "contact"
+
+    # slider item loop
+    - title : "Think globally, act locally"
+      content : "74.68kW installed to date and counting! (Guadalajara, Zapopan, Puerto Vallarta y Nuevo Vallarta)"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
 
 
 ############################### Banner feature ###############################
@@ -43,35 +33,27 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Coverage"
+      icon : "ti-bolt" #"ti-light-bulb" # icon pack : https://themify.me/themify-icons
+      content : "74.68kW installed to date and counting! (Guadalajara, Zapopan, Puerto Vallarta y Nuevo Vallarta)"
 
     # feature item loop
-    - name : "Our Notice Board"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Applications"
+      icon : "ti-star" # icon pack : https://themify.me/themify-icons
+      content : "Services both Residential and Business"
 
     # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Cost"
+      icon : "ti-money" # icon pack : https://themify.me/themify-icons
+      content : "Average savings per client of over $22,0000MXN per year"
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "About Sunny Side Up"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "We are a Mexican run business with the goal of helping our clients find a long term sustainable solution to generate their own energy. Thereby, removing the concern around rising electricity bills"
   button:
     enable : true
     label : "Learn more"
@@ -80,7 +62,7 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Course"
   # course item comes from "content/**/course" folder.
 
@@ -100,25 +82,21 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  content : "The most expensive residencial tariff found in Mexico is the De Alto Consumo (DAC). Having been around $3.2MXN per kWh a few years ago it is now closer to $4.5MXN which is leading to more and more people searching for alternative options"
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  #video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
   
 ########################### funfacts ############################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # funfact item loop
     - name : "Homes"
