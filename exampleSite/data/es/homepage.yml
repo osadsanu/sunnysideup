@@ -10,7 +10,7 @@ slider:
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Apply now"
         link : "contact"
 
@@ -21,7 +21,7 @@ slider:
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Apply now"
         link : "contact"
 
@@ -66,7 +66,7 @@ course:
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Cliquez pour vous joindre à l’atelier avancé"
   title : "Apprentissage en réseautique avancée"
   button:
@@ -86,7 +86,7 @@ success_story:
   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  #video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
 ############################# event ################################
