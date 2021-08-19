@@ -30,7 +30,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/stories/residential/UaQvJ9H.png"
   feature_item:
     # feature item loop
     - name : "Coverage"
@@ -52,7 +52,7 @@ banner_feature:
 about:
   enable : true
   title : "About Sunny Side Up"
-  image : "images/about/about-us.jpg"
+  image : "images/stories/residential/nY8nYWy.png"
   content : "We are a Mexican run business with the goal of helping our clients find a long term sustainable solution to generate their own energy. Thereby, removing the concern around rising electricity bills"
   button:
     enable : true
@@ -79,7 +79,7 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
   content : "The most expensive residencial tariff found in Mexico is the De Alto Consumo (DAC). Having been around $3.2MXN per kWh a few years ago it is now closer to $4.5MXN which is leading to more and more people searching for alternative options"
@@ -119,7 +119,7 @@ funfacts:
 
 
 ############################# blog ################################
-blog:
+course:
   enable : true
-  title : "Latest News"
+  title : "Our Clients "
   # blog item comes from "content/**/blog" folder.

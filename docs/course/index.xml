@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Clients and Their Savings! on Sunnysideup | Solar Technologies</title>
+    <link>//localhost:1313/course/</link>
+    <description>Recent content in Our Clients and Their Savings! on Sunnysideup | Solar Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Sunny Sunny Side Up</copyright><atom:link href="//localhost:1313/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>//localhost:1313/course/businesses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/course/businesses/</guid>
+      <description>Businesses / PDBT Tariff The PDBT tariff (previously called 02) is the second most expensive in Mexico after the DAC.</description>
+    </item>
+    
+    <item>
+      <title>Residencial</title>
+      <link>//localhost:1313/course/residential/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/course/residential/</guid>
+      <description>Residential Projects / DAC Tariff The most expensive residencial tariff found in Mexico is the De Alto Consumo (DAC).</description>
+    </item>
+    
+    <item>
+      <title>System Designs and Steps</title>
+      <link>//localhost:1313/course/systemdesigns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/course/systemdesigns/</guid>
+      <description>System Designs and Steps So you´ve decided to go green? What´s next?</description>
+    </item>
+    
+  </channel>
+</rss>

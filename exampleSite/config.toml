@@ -100,10 +100,6 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "SunnySideUp"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 [[params.social]]
 title = "linkedin"
@@ -132,39 +128,39 @@ url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
+name = "Success Story"
 url = "course"
 weight = 2
 
-[[Languages.en.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship"
-
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research"
+#[[Languages.en.menu.main]]
+#weight = 3
+#name = "Pages"
+#hasChildren = true
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "teacher"
+#  url = "teacher"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "notice"
+#  url = "notice"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "event"
+#  url = "event"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "scholarship"
+#  url = "scholarship"
+#
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "research"
+#  url = "research"
   
 [[Languages.en.menu.main]]
 name = "blog"
@@ -222,39 +218,39 @@ url = "about"
 weight = 1
 
 [[Languages.es.menu.main]]
-name = "Cours"
+name = "Success Story"
 url = "course"
 weight = 2
 
-[[Languages.es.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
-
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher"
-
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice"
-
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "Évènement"
-  url = "event"
-
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "Cursus"
-  url = "scholarship"
-
-  [[Languages.es.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research"
+#[[Languages.es.menu.main]]
+#weight = 3
+#name = "Pages"
+#hasChildren = true
+#
+#  [[Languages.es.menu.main]]
+#  parent = "Pages"
+#  name = "teacher"
+#  url = "teacher"
+#
+#  [[Languages.es.menu.main]]
+#  parent = "Pages"
+#  name = "notice"
+#  url = "notice"
+#
+#  [[Languages.es.menu.main]]
+#  parent = "Pages"
+#  name = "Évènement"
+#  url = "event"
+#
+#  [[Languages.es.menu.main]]
+#  parent = "Pages"
+#  name = "Cursus"
+#  url = "scholarship"
+#
+#  [[Languages.es.menu.main]]
+#  parent = "Pages"
+#  name = "research"
+#  url = "research"
   
 [[Languages.es.menu.main]]
 name = "blog"
@@ -288,3 +284,6 @@ url = "scholarship"
 [[Languages.es.menu.footer]]
 name = "research"
 url = "research"
+
+[markup.goldmark.renderer]
+unsafe= true
