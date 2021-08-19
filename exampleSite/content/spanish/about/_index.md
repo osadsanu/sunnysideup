@@ -11,13 +11,7 @@ description : "Somos una Empresa Mexicana con la misión de generar trabajo y ay
 
 ## Nuestra historía
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
-
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Somos una Empresa Mexicana con la misión de ayudar a nuestros clientes a obtener una solución económica y sustentable en la generación de la energía sin preocuparse por las tarifas de la CFE 
+- **(Coverage)** Total de 74.68kW instalados hasta la fecha en Jalisco y Nayarit y contando! (Guadalajara, Zapopan, Puerto Vallarta y Nuevo Vallarta) 
+- **(Applications)** Residenciales y Negocios
+- **(Cost)** Ahorros promedio por cliente arriba de $22,000MXN por año
