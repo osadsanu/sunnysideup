@@ -13,7 +13,6 @@ install:
   - sudo dpkg -i /tmp/hugo.deb
 #  - npm run install_hugo
   - npm install -g firebase-tools
-  
 script:
   #- (echo "Script path:") && pwd
   - echo "Generating WEB with HUGO"
